@@ -1,8 +1,10 @@
-###  Gonzalo García-Castro
+I post stuff on R, Julia and statistics on my [blog](gongcastro.github.io/posts). :orange_book:
 
-[https://gongcastro.github.io/](https://gongcastro.github.io/)
+* Doing my PhD in developmental psycholinguistics at Universitat Pompeu Fabra (Barcelona, Spain). :office:
+* Interested in language acquisition, bilingualism, and statistics. :speech_balloon:
+* I use R regularly to process, analyse, and sometimes collect data. :computer:
+ 
+:mailbox: Do not hesitate to get in contact by at [gonzaloggc95@gmail.com](mailto:gonzaloggc95@gmail.com) or on Twitter ([@gongcastro](https://twitter.com/gongcastro))!
 
-I'm doing my PhD in developmental psycholinguistics at Universitat Pompeu Fabra (Barcelona, Spain). I'm interested in language acquisition, bilingualism, and statistics. I use R regularly to process, analyse, and sometimes collect data. Do not hesitate to get in contact at gonzaloggc95@gmail.com or by Twitter ([@gongcastro](https://twitter.com/gongcastro))!
-
-You can also take a look at some code snippets I made at my Gists profile: https://gist.github.com/gongcastro.
+You can also take a look at some code snippets I made at my [Gists](https://gist.github.com/gongcastro).
 
