@@ -10,7 +10,7 @@ Some of my contributions:
 * [{comidistar}](https://github.com/gongcastro/comidistar): R package containing the scores given to products in the blind taste tests of [El Comidista](https://elcomidista.elpais.com/)
 * [psicotuiterbot](https://github.com/gongcastro/psicotuiterbot): A Twitter [bot](https://twitter.com/psicotuiterbot) programmed in R using {rtweet} that automatically retweets mentions of the hasthtags #psicotuiter or #psicotwitter in Spanish
  
-:mailbox: Get in contact at [gonzaloggc95@gmail.com](mailto:gonzaloggc95@gmail.com) or on Twitter ([@gongcastro](https://twitter.com/gongcastro))!
+:mailbox: Get in contact at [gonzaloggc95@gmail.com](mailto:gonzaloggc95@gmail.com) or on Twitter ([@gongcastro](https://twitter.com/gongcastro)) or <a rel="me" href="https://fediscience.org/@gongcastro">Mastodon</a>!
 
 You can also take a look at some code snippets I made at my [Gists](https://gist.github.com/gongcastro).
 
