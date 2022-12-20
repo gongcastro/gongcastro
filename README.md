@@ -1,8 +1,7 @@
-I post stuff on R, Julia and statistics on my [blog](https://gongcastro.github.io/post/). :orange_book:
+Developmental psycholinguistics and cognitive scientist. I post stuff on R, Julia and statistics on my [blog](https://gongcastro.github.io/post/). :orange_book:
 
-* Doing my PhD in developmental psycholinguistics at Universitat Pompeu Fabra (Barcelona, Spain). :office:
-* Interested in language acquisition, bilingualism, and statistics. :speech_balloon:
-* I use R regularly to process, analyse, and sometimes collect data. :computer:
+* Doing my PhD at Universitat Pompeu Fabra (Barcelona, Spain). :office:
+* Interested in language acquisition, bilingualism, and (Bayesian) stats :speech_balloon:
 
 Some of my contributions:
 
