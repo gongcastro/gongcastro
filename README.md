@@ -5,7 +5,7 @@ Developmental psycholinguistics and cognitive scientist. I post stuff on R, Juli
 
 Some of my contributions:
 
-* [{multilex}](https://github.com/gongcastro/multilex): R package for downloading and processing vocabulary data from 10-40 month-old children living in the Metropolitan Area of Barcelona (Spain) [[website](https://gongcastro.github.io/multilex/)]
+* [{bvq}](https://github.com/gongcastro/bvq): R package for downloading and processing vocabulary data from 10-40 month-old children living in the Metropolitan Area of Barcelona (Spain) [[website](https://gongcastro.github.io/bvq/)]
 * [{comidistar}](https://github.com/gongcastro/comidistar): R package containing the scores given to products in the blind taste tests of [El Comidista](https://elcomidista.elpais.com/)
 * [psicotuiterbot](https://github.com/gongcastro/psicotuiterbot): A Twitter [bot](https://twitter.com/psicotuiterbot) programmed in R using {rtweet} that automatically retweets mentions of the hasthtags #psicotuiter or #psicotwitter in Spanish
  
