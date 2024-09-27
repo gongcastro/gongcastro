@@ -1,7 +1,7 @@
  :orange_book: Developmental psycholinguist and cognitive scientist. I post stuff on R, Julia and statistics on my [blog](https://gongcastro.github.io/post/).
 
-* Doing my PhD at Universitat Pompeu Fabra (Barcelona, Spain)
-* Interested in language acquisition, bilingualism, and (Bayesian) stats
+* Post-doctoral researcher at Institut de Recerca Sant Joan de Déu (Barcelona, Spain)
+* Interested in language acquisition, bilingualism, fNIRS, and (Bayesian) stats
 
 ---
 
