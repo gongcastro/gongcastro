@@ -22,6 +22,10 @@
 
 
  ---
+
+ ![Gong Castro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongcastro&show_icons=true&theme=radical)
+
+ ---
  
 :mailbox: Get in contact at [gongarciacastro@gmail.com](mailto:gongarciacastro@gmail.com) or on Twitter ([@gongcastro](https://twitter.com/gongcastro)) or <a rel="me" href="https://fediscience.org/@gongcastro">Mastodon</a>!
 
