@@ -1,4 +1,4 @@
- :orange_book: Developmental psycholinguist and cognitive scientist. I post stuff on R, Julia and statistics on my [blog](https://gongcastro.github.io/post/).
+ :orange_book: Developmental psycholinguist and cognitive scientist. I post stuff on Python, R, Julia and statistics on my [blog](https://gongcastro.github.io/post/).
 
 * Post-doctoral researcher at Institut de Recerca Sant Joan de Déu (Barcelona, Spain)
 * Interested in language acquisition, bilingualism, fNIRS, and (Bayesian) stats
