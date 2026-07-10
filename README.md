@@ -12,8 +12,7 @@
 
 ---
 
-[![gongcastros's GitHub stats](https://github-stats-extended.vercel.app/api?username=gongcastro)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=8&theme=dark)
 ---
 
 :clipboard: Portfolio:
