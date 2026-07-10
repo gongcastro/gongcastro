@@ -8,7 +8,6 @@
  :rocket:  Find me in [r-universe](https://ropenspain.r-universe.dev/comidistar)!
  
 [![:name status badge](https://gongcastro.r-universe.dev/badges/:name)](https://gongcastro.r-universe.dev)
-[![:registry status badge](https://gongcastro.r-universe.dev/badges/:registry)](https://gongcastro.r-universe.dev)
 [![:total status badge](https://gongcastro.r-universe.dev/badges/:total)](https://gongcastro.r-universe.dev)
 
 ---
