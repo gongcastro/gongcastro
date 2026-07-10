@@ -12,8 +12,7 @@
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=8&theme=dark)
----
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=4&theme=transparent)---
 
 :clipboard: Portfolio:
 
