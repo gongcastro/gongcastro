@@ -12,6 +12,10 @@
 
 ---
 
+[![gongcastros's GitHub stats](https://github-stats-extended.vercel.app/api?username=gongcastro)](https://github.com/stats-organization/github-stats-extended)
+
+---
+
 :clipboard: Portfolio:
 
 * [cognate-beginnings](https://github.com/gongcastro/cognate-beginnings): Our latest work on bilingual lexical acquisition, in which we propose a mechanistic model of the cognateness facilitation effect.
