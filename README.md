@@ -10,18 +10,6 @@
 [![:name status badge](https://gongcastro.r-universe.dev/badges/:name)](https://gongcastro.r-universe.dev)
 [![:total status badge](https://gongcastro.r-universe.dev/badges/:total)](https://gongcastro.r-universe.dev)
 
----
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=gongcastro&layout=donut&langs_count=4&theme=transparent)---
-
-:clipboard: Portfolio:
-
-* [cognate-beginnings](https://github.com/gongcastro/cognate-beginnings): Our latest work on bilingual lexical acquisition, in which we propose a mechanistic model of the cognateness facilitation effect.
-* [bvq](https://github.com/gongcastro/bvq): R package for downloading and processing vocabulary data from 10-40 month-old children living in the Metropolitan Area of Barcelona (Spain) [[website](https://gongcastro.github.io/bvq/)] [![bvq status badge](https://gongcastro.r-universe.dev/badges/bvq)](https://gongcastro.r-universe.dev).
-* [upfthesis](https://github.com/gongcastro/upfthesis): A Quarto template for thesis dissertations at Universitat Pompeu Fabra.
-* [comidistar](https://github.com/gongcastro/comidistar): R package containing the scores given to products in the blind taste tests of [El Comidista](https://elcomidista.elpais.com/) [![comidistar status badge](https://ropenspain.r-universe.dev/badges/comidistar)](https://ropenspain.r-universe.dev).
-
-
  ---
 
  ![Gong Castro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongcastro&show_icons=true&theme=radical)
